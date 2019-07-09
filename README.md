@@ -23,7 +23,7 @@ tracking improve the amount of energy acquired.
 
 ![Image of self cleaning flowchart](https://i.ibb.co/PMtKYQV/mflowchart.png)
 
-![app image](https://i.ibb.co/12m4k3Q/appimage.png)
+![app image](http://www.simpleimageresizer.com/_uploads/photos/1faad194/appimage_50.png)
 
 
 
