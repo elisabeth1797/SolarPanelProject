@@ -16,4 +16,4 @@ tracking improve the amount of energy acquired.
 
 ![gif](https://gifs.com/gif/time-lapse-E8KEKg)
 
-[![Watch the video](https://www.youtube.com/watch?v=sqDxO9PTMds)
+[![Watch the video](https://j.gifs.com/E8KEKg.gif)
