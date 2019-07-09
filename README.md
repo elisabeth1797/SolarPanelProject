@@ -21,6 +21,10 @@ tracking improve the amount of energy acquired.
 
 ![Image of solar tracking flowchart](https://i.ibb.co/L09BvRC/stflowchart.png)
 
+![Image of self cleaning flowchart](https://i.ibb.co/PMtKYQV/mflowchart.png)
+
+
+
 
 
 
