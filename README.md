@@ -12,4 +12,4 @@ This will allow the user to monitor how much energy is obtained by the panel at
 different times of the day and whether the cleaning mechanism and solar
 tracking improve the amount of energy acquired.
 
-![Image of Project](https://i.ibb.co/HCPCKht/spp.png)
+![Image of Project](https://i.ibb.co/jzwz8Jy/spp.png)
