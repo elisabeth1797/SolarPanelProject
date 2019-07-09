@@ -14,5 +14,5 @@ tracking improve the amount of energy acquired.
 
 ![Image of Project](https://i.ibb.co/jzwz8Jy/spp.png)
 
-![](https://j.gifs.com/E8KEKg.gif)
+<iframe src='//gifs.com/embed/time-lapse-E8KEKg' frameborder='0' scrolling='no' width='360px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
