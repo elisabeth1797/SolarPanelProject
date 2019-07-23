@@ -16,16 +16,14 @@ different times of the day and whether the cleaning mechanism and solar-tracking
 # Time-Lapse II
 [![Time Lapse II](https://img.youtube.com/vi/SfHdstA0kLI/0.jpg)](https://www.youtube.com/watch?v=SfHdstA0kLI)
 # Cleaning Mechanism
-[![Time Lapse II](https://img.youtube.com/vi/GH2ruWZ_b_o0.jpg)](https://www.youtube.com/watch?v=GH2ruWZ_b_o)
+[![Cleaning Mechanism](https://img.youtube.com/vi/GH2ruWZ_b_o0.jpg)](https://www.youtube.com/watch?v=GH2ruWZ_b_o)
 
 
 ![Image of solar tracking flowchart](https://i.ibb.co/L09BvRC/stflowchart.png)
 
 ![Image of self cleaning flowchart](https://i.ibb.co/PMtKYQV/mflowchart.png)
 
-![app image](http://www.simpleimageresizer.com/_uploads/photos/1faad194/appimage_50.png)
-
-
+![app image](https://i.ibb.co/JzkjMtM/appimage.png)
 
 
 
