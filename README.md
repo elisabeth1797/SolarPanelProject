@@ -1,5 +1,5 @@
 # Solar-Tracking and Self-Cleaning Solar Panel Project
-The team project aims to be a self-sustainable system that consists of dual axis motion
+The team project aims to be a self-sustainable system that consists of dual-axis motion
 for solar tracking, a self-cleaning mechanism, and an app for data.The objective
 is to determine whether the addition of the self-cleaning mechanism and solar
 tracking improves the amount of energy acquired. Two linear actuators are
