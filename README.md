@@ -16,7 +16,7 @@ different times of the day and whether the cleaning mechanism and solar-tracking
 # Time-Lapse II
 [![Time Lapse II](https://img.youtube.com/vi/SfHdstA0kLI/0.jpg)](https://www.youtube.com/watch?v=SfHdstA0kLI)
 # Cleaning Mechanism
-[![Cleaning Mechanism](https://img.youtube.com/vi/GH2ruWZ_b_o0.jpg)](https://www.youtube.com/watch?v=GH2ruWZ_b_o)
+[![Cleaning Mechanism](https://img.youtube.com/vi/GH2ruWZ_b_o/0.jpg)](https://www.youtube.com/watch?v=GH2ruWZ_b_o)
 
 
 ![Image of solar tracking flowchart](https://i.ibb.co/L09BvRC/stflowchart.png)
