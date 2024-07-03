@@ -1,14 +1,18 @@
 # Solar-Tracking and Self-Cleaning Solar Panel Project
-The team project aims to be a self-sustainable system that consists of dual-axis motion
-for solar-tracking, a self-cleaning mechanism, and an app for data.The objective
-is to determine whether the addition of the self-cleaning mechanism and solar-tracking improves the amount of energy acquired. Two linear actuators are
-used to allow dual-axis motion. The system is controlled by an Arduino
-Mega microcontroller board. Included with this project is also a self-cleaning
-mechanism for the solar panel. There is also an app connected to the
-microcontroller through bluetooth connection that will give the user useful
-information. Energy being obtained by the panel will be displayed on the app.
-This will allow the user to monitor how much energy is obtained by the panel at
-different times of the day and whether the cleaning mechanism and solar-tracking improve the amount of energy acquired.
+Our team developed a self-sustainable solar system with the following components:
+
+# Dual-Axis Solar Tracking:
+Implemented dual-axis motion for precise sun tracking.
+Utilized two linear actuators to adjust the panel’s orientation.
+# Self-Cleaning Mechanism:
+Designed a mechanism to keep the solar panel clean.
+Ensured optimal energy capture by minimizing dirt and debris.
+# Data App:
+Connected an app to the Arduino Mega microcontroller via Bluetooth.
+Displays real-time energy output from the solar panel.
+Enables users to monitor performance throughout the day.
+
+The project aims to assess whether solar-tracking and self-cleaning enhance energy acquisition.
 
 ![Image of Project](https://github.com/elisabeth1797/SolarPanelProject/blob/master/SolarPanel.PNG)
 
