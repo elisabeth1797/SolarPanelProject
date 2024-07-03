@@ -12,8 +12,7 @@ different times of the day and whether the cleaning mechanism and solar-tracking
 
 ![Image of Project](https://github.com/elisabeth1797/SolarPanelProject/blob/master/SolarPanel.PNG)
 # Time-Lapse I
-http://img.youtube.com/vi/<nHQxozKw_I4>/0.jpg
-[![Time Lapse I](https://www.youtube.com/watch?v=nHQxozKw_I4.jpg)](https://www.youtube.com/watch?v=nHQxozKw_I4)
+[![Time Lapse I](https://img.youtube.com/vi/<nHQxozKw_I4>/0.jpg)](https://www.youtube.com/watch?v=nHQxozKw_I4)
 # Time-Lapse II
 [![Time Lapse II](https://www.youtube.com/watch?v=fySQ2j2NUQo.jpg)](https://www.youtube.com/watch?v=fySQ2j2NUQo)
 # Cleaning Mechanism
