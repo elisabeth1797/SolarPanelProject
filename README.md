@@ -10,7 +10,7 @@ information. Energy being obtained by the panel will be displayed on the app.
 This will allow the user to monitor how much energy is obtained by the panel at
 different times of the day and whether the cleaning mechanism and solar-tracking improve the amount of energy acquired.
 
-![Image of Project](https://i.ibb.co/jzwz8Jy/spp.png)
+![Image of Project](https://github.com/elisabeth1797/SolarPanelProject/blob/master/SolarPanel.PNG)
 # Time-Lapse I
 [![Time Lapse I](https://www.youtube.com/watch?v=nHQxozKw_I4.jpg)](https://www.youtube.com/watch?v=nHQxozKw_I4)
 # Time-Lapse II
