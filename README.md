@@ -12,11 +12,11 @@ different times of the day and whether the cleaning mechanism and solar-tracking
 
 ![Image of Project](https://i.ibb.co/jzwz8Jy/spp.png)
 # Time-Lapse I
-[![Time Lapse I](https://img.youtube.com/vi/sqDxO9PTMds/0.jpg)](https://www.youtube.com/watch?v=sqDxO9PTMds)
+[![Time Lapse I](https://www.youtube.com/watch?v=nHQxozKw_I4.jpg)](https://www.youtube.com/watch?v=nHQxozKw_I4)
 # Time-Lapse II
-[![Time Lapse II](https://img.youtube.com/vi/SfHdstA0kLI/0.jpg)](https://www.youtube.com/watch?v=SfHdstA0kLI)
+[![Time Lapse II](https://www.youtube.com/watch?v=fySQ2j2NUQo.jpg)](https://www.youtube.com/watch?v=fySQ2j2NUQo)
 # Cleaning Mechanism
-[![Cleaning Mechanism](https://img.youtube.com/vi/GH2ruWZ_b_o/0.jpg)](https://www.youtube.com/watch?v=GH2ruWZ_b_o)
+[![Cleaning Mechanism](https://www.youtube.com/watch?v=xunRbjFUsbE.jpg)](https://www.youtube.com/watch?v=xunRbjFUsbE)
 
 
 ![Image of solar tracking flowchart](https://i.ibb.co/L09BvRC/stflowchart.png)
