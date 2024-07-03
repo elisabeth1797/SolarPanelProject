@@ -11,12 +11,13 @@ This will allow the user to monitor how much energy is obtained by the panel at
 different times of the day and whether the cleaning mechanism and solar-tracking improve the amount of energy acquired.
 
 ![Image of Project](https://github.com/elisabeth1797/SolarPanelProject/blob/master/SolarPanel.PNG)
+
 # Time-Lapse I
 [![Time Lapse I](https://img.youtube.com/vi/<nHQxozKw_I4>/0.jpg)](https://www.youtube.com/watch?v=nHQxozKw_I4)
 # Time-Lapse II
-[![Time Lapse II](https://www.youtube.com/watch?v=fySQ2j2NUQo.jpg)](https://www.youtube.com/watch?v=fySQ2j2NUQo)
+[![Time Lapse II](https://img.youtube.com/vi/<fySQ2j2NUQo>/0.jpg)](https://www.youtube.com/watch?v=fySQ2j2NUQo)
 # Cleaning Mechanism
-[![Cleaning Mechanism](https://www.youtube.com/watch?v=xunRbjFUsbE.jpg)](https://www.youtube.com/watch?v=xunRbjFUsbE)
+[![Cleaning Mechanism](https://img.youtube.com/vi/<xunRbjFUsbE>/0.jpg)](https://www.youtube.com/watch?v=xunRbjFUsbE)
 
 
 ![Image of solar tracking flowchart](https://i.ibb.co/L09BvRC/stflowchart.png)
